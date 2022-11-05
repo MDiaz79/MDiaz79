@@ -1,7 +1,7 @@
 // Función para resolver costo de Ticket
 
 function valorEntrada(){
-    validaEntrada()
+  //  validaEntrada()
     const inputCat= document.getElementById('inputCat').value;
     console.log(inputCat);
     validarSeleccion(inputCat);
